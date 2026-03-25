@@ -3,7 +3,7 @@ export const siteConfig = {
   shortName: "NRHS",
   description:
     "Minimal documentation-style website for a low-level HTTP/1.1 server built on raw TCP sockets with Bun.",
-  url: "https://nishantdev.space",
+  url: "https://nishant-http-server.vercel.app",
   owner: {
     name: "Nishant Gaurav",
     github: "https://github.com/codewithevilxd",

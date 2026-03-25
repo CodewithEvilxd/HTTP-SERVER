@@ -1,0 +1,5 @@
+Nishant Raw HTTP Server
+Maintained by codewithevilxd
+Portfolio: https://nishantdev.space
+Email: codewithevilxd@gmail.com
+This asset file is used by the inspect:asset script.

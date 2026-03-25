@@ -1,0 +1,12 @@
+GET /about HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.11.1
+Accept: application/json
+
+POST /echo HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.11.1
+Content-Type: text/plain
+Content-Length: 18
+
+hello from nishant
